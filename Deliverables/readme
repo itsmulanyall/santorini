@@ -1,0 +1,2 @@
+client must be launched with parameters ip [space] port. server is currently set to bind port 5555
+to see finaluml fully from starUml you should go to debug-> show dev tools-> set canvas id="diagram-canvas" both with and height in both values to 8000 and 6000 (double of respectively values)
